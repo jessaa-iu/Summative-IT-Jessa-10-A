@@ -1,0 +1,23 @@
+body {
+    background-color: azure;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+p {
+  color: darkblue;
+}
+img {
+    width:auto;
+    max-width: 400px
+}
